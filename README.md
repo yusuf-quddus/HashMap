@@ -7,7 +7,7 @@ hash key by adding the digits repeatedly until it ends up being a number between
 
 ### Collision Handling
 
-For collision resolution, use quadratic probing in the same direction always, revert to linear probing
+For collision resolution, use quadratic probing in the same direction always, revert to linear probing. Data Structure capable of link based collision handling
 
 ## Authors
 
