@@ -1,5 +1,5 @@
 # HashMap
-Hash Map Data Structure that Hashes
+Hash Map ADT. Hash Node allow for Link based exception handling
 
 ### Hash Function
 
